@@ -5,3 +5,4 @@ databases/*
 docs/_site
 dist
 .idea
+package-lock.json
